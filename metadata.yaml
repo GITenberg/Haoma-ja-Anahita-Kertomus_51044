@@ -1,4 +1,8 @@
 _repo: Haoma-ja-Anahita-Kertomus_51044
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hahl, Jalmari
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '8054'
     url: http://www.gutenberg.org/2009/agents/8054
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51044#Haoma-ja-Anahita-Kertomus
 gutenberg_issued: '2016-01-26'
 gutenberg_type: Text
 identifiers:
